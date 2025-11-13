@@ -20,7 +20,6 @@
 Скопировать компонент в папку:
 /local/components/custom/review.form/
 
-
 Подключение компонента:
 <?php
 $APPLICATION->IncludeComponent(
